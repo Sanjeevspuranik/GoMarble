@@ -46,7 +46,10 @@ To extract reviews from a product page, send a GET request to ```http://localhos
   "url": "https://www.example.com/product-page"
 }
 ```
-Response:
+## Note
+Make sure to remove the quotation marks from the URL before accessing the API.
+
+## Response:
 
 The API will return a JSON response with the extracted reviews.
 
