@@ -1,5 +1,3 @@
-Your updated README looks great! Here's the complete file with the necessary changes:
-
 ### README.md
 
 ```markdown
@@ -19,7 +17,7 @@ GoMarble is a project that implements an API server capable of extracting review
    ```bash
    git clone https://github.com/Sanjeevspuranik/GoMarble.git
    cd GoMarble
-   ```
+```
 
 2. **Create a virtual environment:**
 
@@ -102,5 +100,3 @@ selenium==3.141.0
 requests==2.25.1
 beautifulsoup4==4.9.3
 ```
-
-Feel free to ask if you need any more details or further assistance!
